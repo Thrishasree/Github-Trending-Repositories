@@ -1,8 +1,3 @@
-# Welcome to Your Miaoda Project
-Miaoda Application Link URL
-    URL:https://medo.dev/projects/app-841ma3c11edd
-
-# Welcome to Your Miaoda Project
 
 ## Project Info
 
@@ -91,4 +86,4 @@ Alternatively, use the official installer: Visit the Node.js official website. D
 
 Configure environment variables and install relevant dependencies.If you need to use a database, please use the official version of Supabase.
 
-Live Demo:https://app-841ma3c11edd.appmedo.com/
+
